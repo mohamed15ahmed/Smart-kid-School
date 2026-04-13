@@ -1,12 +1,10 @@
-# 🎓 Smart Kids School Website
+ Smart Kids School Website
 
 A modern, colorful, and child-friendly website designed for a private primary school.
 
 The website focuses on creating a joyful learning experience for children while providing parents with clear and simple navigation.
 
----
-
-## 🌟 Features
+ 🌟 Features
 
 - 🎨 Child-friendly colorful design
 - 🌍 Multilingual support (Arabic & English)
@@ -17,9 +15,7 @@ The website focuses on creating a joyful learning experience for children while 
 - 🖼️ Real images for children and activities
 - ✨ Smooth UI and light animations
 
----
-
-## 📄 Pages Included
+ 📄 Pages Included
 
 - Home
 - About Us
@@ -28,30 +24,23 @@ The website focuses on creating a joyful learning experience for children while 
 - Apply Now
 - Contact
 
----
-
-## 🧩 Technologies Used
+ 🧩 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 
----
-
-## 🚀 How to Run
+ 🚀 How to Run
 
 1. Download or clone the project
 2. Open `index.html` in your browser
 
----
 
-## 📌 Notes
+ 📌 Notes
 
 - The forms are frontend only (no backend yet)
 - You can easily connect them to a backend (Node.js / Firebase / PHP)
 
----
+ 👨‍💻 Author
 
-## 👨‍💻 Author
-
-Created by [Your Name]
+Created by [Mohamed Ahmed Aboshanab]
